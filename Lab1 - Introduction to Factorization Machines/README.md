@@ -33,7 +33,7 @@ We recommend you use the latest version of Firefox or Chrome to complete this wo
 
     ```
     cd SageMaker
-    git clone https://github.com/skrinak/recommendationEngine.git
+    git clone https://github.com/kelevr4/recommendationEngine
  
     chown -R ec2-user.ec2-user recommendationEngine
     ```
